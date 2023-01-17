@@ -22,7 +22,7 @@ Rode as seeds:
 Por fim, rode o backend:
 
     npm run dev
-Para ver a documentação acesse: [enter link description here](http://localhost:3333/api-docs/)
+Para ver a documentação acesse: [Documentação](http://localhost:3333/api-docs/)
 
 # Cadastro de carro
 
